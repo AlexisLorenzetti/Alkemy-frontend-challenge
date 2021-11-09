@@ -1,0 +1,12 @@
+.hero-card {
+    min-height: 509px;
+}
+
+.hero-card img {
+    visibility: hidden;
+}
+
+.hero-card__body {
+    box-shadow: 0 -10px 10px rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(15px);
+}
